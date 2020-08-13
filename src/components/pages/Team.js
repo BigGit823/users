@@ -1,13 +1,13 @@
 import React from "react";
 
-const NotFound = () => {
+const Team = () =>{
     return (
         <div className="container">
             <div className="py-4">
-                <h1 className="display-1"> Page not Found</h1>
+            <h1>Team Page</h1>            
             </div>
         </div>
     );
 };
 
-export default NotFound;
+export default Team;

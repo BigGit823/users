@@ -1,13 +1,14 @@
 import React from "react";
 
-const NotFound = () => {
+const Gallery = () =>{
     return (
         <div className="container">
             <div className="py-4">
-                <h1 className="display-1"> Page not Found</h1>
-            </div>
+                <h1>Gallery Page</h1>
+            
+             </div>
         </div>
     );
 };
 
-export default NotFound;
+export default Gallery;
